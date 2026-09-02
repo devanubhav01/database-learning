@@ -13,7 +13,7 @@ CREATE TABLE users (
 
 SELECT * FROM users;
 
-DROP DATABASE hydra;
+#DROP DATABASE hydra;
 
 SELECT name, email FROM users;
 
