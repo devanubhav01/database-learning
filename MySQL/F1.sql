@@ -11,4 +11,4 @@ CREATE TABLE users (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-Select * from 
+Select * FROM users;
