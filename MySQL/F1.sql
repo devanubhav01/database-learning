@@ -19,3 +19,4 @@ SELECT name, email FROM users;
 
 RENAME TABLE users TO customers;
 SHOW TABLES;
+SELECT DATABASE();
