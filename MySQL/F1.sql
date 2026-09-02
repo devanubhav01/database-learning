@@ -15,4 +15,4 @@ SELECT * FROM users;
 
 #DROP DATABASE hydra;
 
-SELECT name, email FROM users;
+SELECT name, email FROM hydra;
