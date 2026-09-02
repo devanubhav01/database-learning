@@ -2,7 +2,7 @@ CREATE DATABASE hydra;
 USE hydra;
 
 CREATE TABLE users (
-users table:
+
 id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
     email VARCHAR(100) UNIQUE NOT NULL,
