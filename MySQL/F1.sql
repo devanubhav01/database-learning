@@ -16,3 +16,5 @@ SELECT * FROM users;
 #DROP DATABASE hydra;
 
 SELECT name, email FROM users;
+
+RENAME TABLE users TO customers;
