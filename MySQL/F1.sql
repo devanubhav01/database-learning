@@ -13,4 +13,4 @@ CREATE TABLE users (
 
 SELECT * FROM users;
 
-#
+#DROP DATABASE hydra;
