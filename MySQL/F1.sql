@@ -1,2 +1,2 @@
 CREATE DATABASE hydra;
-USE hyda
+USE hydra;
