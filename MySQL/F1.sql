@@ -1,1 +1,1 @@
-CREATE DATABASE start
+CREATE DATABASE startersql;
