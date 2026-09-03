@@ -7,6 +7,6 @@ CREATE TABLE addresses (
     city VARCHAR(100),
     state VARCHAR(100),
     pincode VARCHAR(10),
-);
 
 FOREIGN KEY (user_id) REFERENCES users (id)
+);
