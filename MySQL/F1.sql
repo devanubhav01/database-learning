@@ -105,3 +105,5 @@ SET
 WHERE
     id = 2;
 DELETE FROM users WHERE id = 7;
+
+SELECT * FROM users WHERE id = 3;
