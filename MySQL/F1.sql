@@ -42,4 +42,17 @@ VALUES (
         '1995-05-14',
         DEFAULT
     );
-    
+
+    INSERT INTO
+    users (
+        name,
+        email,
+        gender,
+        date_of_birth
+    )
+VALUES (
+        'Bob',
+        'bob@example.com',
+        'Male',
+        '1990-11-23'
+    );
