@@ -7,4 +7,5 @@ CREATE TABLE users (
     name VARCHAR(100) NOT NUL,
     email VARCHAR(100) UNIQUE NOT NULL,
     gender ENUM('Male','Female','Other'),
+    date_of_birth
 )
