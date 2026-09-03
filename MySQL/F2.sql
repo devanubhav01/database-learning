@@ -12,7 +12,7 @@ CREATE TABLE addresses (
 
 INSERT INTO
     addresses (
-        name,
+        city,
         email,
         gender,
         date_of_birth
