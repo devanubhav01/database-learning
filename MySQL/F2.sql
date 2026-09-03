@@ -15,10 +15,7 @@ INSERT INTO
        city
     )
 VALUES (
-        'David',
-        'david@example.com',
-        'Male',
-        '2000-08-09'
+       ''
     ),
     (
         'Eva',
