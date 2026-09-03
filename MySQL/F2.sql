@@ -11,12 +11,21 @@ CREATE TABLE addresses (
 );
 
 INSERT INTO
-    addresses
+    users (
+        name,
+        email,
+        gender,
+        date_of_birth
+    )
 VALUES (
-        1,
-        'Alice',
-        'alice@example.com',
+        'David',
+        'david@example.com',
+        'Male',
+        '2000-08-09'
+    ),
+    (
+        'Eva',
+        'eva@example.com',
         'Female',
-        '1995-05-14',
-        DEFAULT
+        '1993-12-30'
     );
