@@ -9,3 +9,14 @@ CREATE TABLE addresses (
     pincode VARCHAR(10),
     FOREIGN KEY (user_id) REFERENCES users (id)
 );
+
+INSERT INTO
+    users
+VALUES (
+        1,
+        'Alice',
+        'alice@example.com',
+        'Female',
+        '1995-05-14',
+        DEFAULT
+    );
