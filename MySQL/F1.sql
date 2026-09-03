@@ -9,4 +9,4 @@ CREATE TABLE users (
     gender ENUM('Male','Female','Other'),
     date_of_birth DATE,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-)
+);
