@@ -52,7 +52,7 @@ VALUES (
     )
 VALUES (
         'Tom',
-        'bob@example.com',
+        'tom@example.com',
         'Male',
         '1990-11-23'
     );
