@@ -113,3 +113,5 @@ ADD CONSTRAINT chk_dob CHECK (date_of_birth > '2000-01-01');
 
 SELECT COUNT(*) FROM users;
 
+SELECT COUNT(*) FROM users WHERE gender = 'Female';
+
