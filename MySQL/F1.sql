@@ -14,3 +14,5 @@ CREATE TABLE users (
 #DROP DATABASE hydra;
 
 SELECT * FROM users;
+
+SELECT name, email FROM users;
