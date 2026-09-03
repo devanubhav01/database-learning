@@ -109,5 +109,5 @@ DELETE FROM users WHERE id = 7;
 SELECT * FROM users WHERE id = 7;
 
 ALTER TABLE users
-ADD CONSTRAINT chk_ CHECK (date_of_birth > '2000-01-01');
+ADD CONSTRAINT chk_date_of_birth CHECK (date_of_birth > '2000-01-01');
 
