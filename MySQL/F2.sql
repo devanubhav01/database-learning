@@ -12,10 +12,7 @@ CREATE TABLE addresses (
 
 INSERT INTO
     addresses (
-        ,
-        email,
-        gender,
-        date_of_birth
+       city
     )
 VALUES (
         'David',
