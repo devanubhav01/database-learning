@@ -13,4 +13,3 @@ CREATE TABLE users (
 
 #DROP DATABASE hydra;
 
-Select All Columns SELECT * FROM users;
