@@ -2,4 +2,6 @@ CREATE DATABASE hydra;
 
 USE hydra;
 
-C
+CREATE TABLE users (
+    
+)
