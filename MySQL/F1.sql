@@ -111,3 +111,5 @@ SELECT * FROM users WHERE id = 7;
 ALTER TABLE users
 ADD CONSTRAINT chk_dob CHECK (date_of_birth > '2000-01-01');
 
+SELECT COUNT(*) FROM users;
+
