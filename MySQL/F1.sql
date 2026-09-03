@@ -4,5 +4,6 @@ USE hydra;
 
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(100)
+    name VARCHAR(100) NOT NUL,
+    
 )
