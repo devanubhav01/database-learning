@@ -18,7 +18,7 @@ VALUES (
        'Mumbai'
     ),
       (
-       'Mumbai'
+       'Kolkata'
     ),
     (
        'New Delhi'
