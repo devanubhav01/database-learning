@@ -69,3 +69,5 @@ SELECT * FROM users WHERE gender = 'Male';
 SELECT * FROM users WHERE id > 10;
 
 SELECT * FROM users WHERE date_of_birth IS NULL;
+
+SELECT * FROM users WHERE date_of_birth IS NOT NULL;
