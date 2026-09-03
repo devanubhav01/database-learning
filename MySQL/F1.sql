@@ -104,4 +104,4 @@ SET
     email = 'robert@example.com'
 WHERE
     id = 2;
-DELETE FROM users WHERE id = 3;
+DELETE FROM users WHERE id = 7;
