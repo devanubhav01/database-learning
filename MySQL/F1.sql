@@ -1,3 +1,3 @@
 CREATE DATABASE hydra;
 
-USE hydra
+USE hydra;
