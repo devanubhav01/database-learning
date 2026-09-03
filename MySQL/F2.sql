@@ -11,7 +11,7 @@ CREATE TABLE addresses (
 );
 
 INSERT INTO
-    users (
+    addresses (
         name,
         email,
         gender,
