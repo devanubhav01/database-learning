@@ -18,5 +18,5 @@ VALUES (
        'Mumbai'
     ),
     (
-       'N'
+       'New Delhi'
     );
