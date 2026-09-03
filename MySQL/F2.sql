@@ -17,6 +17,9 @@ INSERT INTO
 VALUES (
        'Mumbai'
     ),
+VALUES (
+       'Mumbai'
+    ),
     (
        'New Delhi'
     );
