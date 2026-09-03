@@ -56,4 +56,15 @@ VALUES (
         'Male',
         '1990-11-23'
     ),
-    ;
+    (
+    'David',
+    'david@example.com',
+    'Male',
+    '2000-08-09'
+),
+(
+    'Eva',
+    'eva@example.com',
+    'Female',
+    '1993-12-30'
+);
