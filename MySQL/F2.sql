@@ -15,7 +15,7 @@ INSERT INTO
        city
     )
 VALUES (
-       ''
+       'Mumbai'
     ),
     (
         'Eva',
