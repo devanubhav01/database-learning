@@ -77,7 +77,7 @@ FROM users
 WHERE
     date_of_birth BETWEEN '1990-01-01' AND '2000-12-31';
 
-    SELECT * FROM users WHERE name LIKE 'A%';
+SELECT * FROM users WHERE name LIKE 'A%';
 -- Starts with A
 SELECT * FROM users WHERE name LIKE '%a';
 -- Ends with a
