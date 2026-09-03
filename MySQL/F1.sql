@@ -89,3 +89,7 @@ FROM users
 WHERE
     gender = 'Female'
     AND date_of_birth > '1990-01-01';
+
+    SELECT * FROM users ORDER BY date_of_birth ASC;
+
+SELECT * FROM users ORDER BY name DESC;
