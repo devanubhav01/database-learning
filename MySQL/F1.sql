@@ -55,4 +55,5 @@ VALUES (
         'tom@example.com',
         'Male',
         '1990-11-23'
-    );
+    ),
+    ;
