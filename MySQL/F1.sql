@@ -63,3 +63,5 @@ VALUES
     'Female',
     '1993-12-30'
 );
+
+SELECT * FROM users WHERE gender = 'Male';
