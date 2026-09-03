@@ -50,12 +50,7 @@ VALUES (
         gender,
         date_of_birth
     )
-VALUES (
-        'Tom',
-        'tom@example.com',
-        'Male',
-        '1990-11-23'
-    ),
+VALUES 
     (
     'David',
     'david@example.com',
