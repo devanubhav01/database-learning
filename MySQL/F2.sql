@@ -28,4 +28,4 @@ VALUES (
 FROM users
     INNER JOIN addresses ON users.id = addresses.user_id;
 
-    SHOW 
+    SHOW TABLE;
