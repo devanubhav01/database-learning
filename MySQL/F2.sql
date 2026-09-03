@@ -18,8 +18,5 @@ VALUES (
        'Mumbai'
     ),
     (
-        'Eva',
-        'eva@example.com',
-        'Female',
-        '1993-12-30'
+       'N'
     );
