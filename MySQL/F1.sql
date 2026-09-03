@@ -23,3 +23,4 @@ RENAME TABLE customers TO users;
 
 ALTER TABLE users ADD COLUMN is_active BOOLEAN DEFAULT TRUE;
 
+ALTER TABLE users DROP COLUMN is_active;
