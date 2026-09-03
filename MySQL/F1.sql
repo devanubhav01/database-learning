@@ -97,3 +97,10 @@ SELECT * FROM users ORDER BY name DESC;
 SELECT * FROM users LIMIT 5;
 
 UPDATE users SET name = 'Alicia' WHERE id = 1;
+
+UPDATE users
+SET
+    name = 'Robert',
+    email = 'robert@example.com'
+WHERE
+    id = 2;
