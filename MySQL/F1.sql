@@ -83,3 +83,9 @@ SELECT * FROM users WHERE name LIKE '%a';
 -- Ends with a
 SELECT * FROM users WHERE name LIKE '%li%';
 -- Contains 'li'
+
+SELECT *
+FROM users
+WHERE
+    gender = 'Female'
+    AND date_of_birth > '1990-01-01';
