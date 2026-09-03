@@ -1,1 +1,1 @@
-CREATE DATABASE startersql;
+CREATE DATABASE hydra;
