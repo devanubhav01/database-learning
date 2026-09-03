@@ -65,3 +65,5 @@ VALUES
 );
 
 SELECT * FROM users WHERE gender = 'Male';
+
+SELECT * FROM users WHERE id > 10;
