@@ -3,5 +3,6 @@ CREATE DATABASE hydra;
 USE hydra;
 
 CREATE TABLE users (
-    id INT AUTO_INCREMENT
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    
 )
